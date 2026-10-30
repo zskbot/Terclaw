@@ -1,0 +1,15 @@
+{
+  "name": "tabler-starter",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Minimal starter template for Tabler — a premium and open source dashboard template.",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
